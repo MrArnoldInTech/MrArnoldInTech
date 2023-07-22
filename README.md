@@ -1,4 +1,14 @@
-### Hi there 👋
+
+
+Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. I am a Graduate with a Bachelor of Information Sciences. Majoring in Sofware Engineering and also a Minor in Games Programming. 
+I did my studies at Massey University from 2020-2022
+
+I am interested in trying new things and gaining new knowledge. I want to get into Front end or Back end programming. I also have a deep passion for Games Programming.
+
+
+
+
+
 
 <!--
 **Arnold-2020/Arnold-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
