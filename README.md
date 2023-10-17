@@ -1,4 +1,5 @@
 ## Hey there, I am Arnold :)
+
 Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. I am a Graduate with a Bachelor of Information Sciences. Majoring in Sofware Engineering and also a Minor in Games Programming. 
 I did my studies at Massey University from 2020-2022
 
