@@ -13,6 +13,9 @@ Thank you for Visting my Profile page. :)
 I also use plastic SCM for Unity Commits as well. 
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?MrArnoldInTech=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?MrArnoldInTech=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 
 
