@@ -1,18 +1,23 @@
 ## Hey there, I am Arnold :)
 
-Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. I am a Graduate with a Bachelor of Information Sciences. Majoring in Software Engineering and also a Minor in Games Programming. 
+Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. 
+
+I am a Graduate with a Bachelor of Information Sciences. Majoring in Software Engineering and also a Minor in Games Programming. 
+
 I did my studies at Massey University from 2020-2022 & had my ceremony in May 2023.
 
 ## About Me 
 🌱 I'm currenlty in the process of creating a Unity game based of Space Invaders with colleague
+
 ⚡ My hobbies include, coding, drives, motorbikeriding, hiking, travelling, playing chess, making games & PC building.
+
 🔭 In the time that I do get free I enjoy learning new skillsets and programming languages
 
 I am interested in trying new things and gaining new knowledge. I want to get into Front end or Back end programming. I also have a deep passion for Games Programming.
 
 FYI: I am in the process of uploading past projects and making them look presentable for Github. As well I have a few projects in Developemt which is yet to come. Please stay tuned for more.
 
-Thank you for Visting my Profile page. :)
+Thank you for visting my Profile page. :)
 
 I also use plastic SCM for Unity Commits as well. 
 
@@ -21,7 +26,7 @@ I also use plastic SCM for Unity Commits as well.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrArnoldInTech&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Porgramming Languages 
+## Programming Languages 
 <p align="left">
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
