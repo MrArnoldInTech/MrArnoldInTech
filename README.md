@@ -23,7 +23,7 @@ I also use plastic SCM for Unity Commits as well.
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img height = 50  src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/prolog.svg" />
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  More to still add, trying to find suitablle icons
 </p>
 
 
