@@ -20,6 +20,17 @@ I also use plastic SCM for Unity Commits as well.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrArnoldInTech&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Test 
+
+<p align="left">
+<img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img height = 50  src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/prolog.svg" />
+<img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+</p>
+
 
 <!--
 **Arnold-2020/Arnold-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
