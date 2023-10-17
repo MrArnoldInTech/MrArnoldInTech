@@ -12,16 +12,12 @@ Thank you for Visting my Profile page. :)
 
 I also use plastic SCM for Unity Commits as well. 
 
+## Stats & Info
 ![Arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrArnoldInTech&show_icons=true&theme=radical) 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MrArnoldInTech_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrArnoldInTech_count=5&theme=tokyonight)]()
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrArnoldInTech&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Test 
-
+## Porgramming Languages 
 <p align="left">
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
