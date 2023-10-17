@@ -3,7 +3,7 @@
 Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. I am a Graduate with a Bachelor of Information Sciences. Majoring in Sofware Engineering and also a Minor in Games Programming. 
 I did my studies at Massey University from 2020-2022
 
-![image](https://github.com/MrArnoldInTech/MrArnoldInTech/assets/72899208/78e103f7-b314-4031-a6a7-fe44ec89e648)
+[![image](https://github.com/MrArnoldInTech/MrArnoldInTech/assets/72899208/78e103f7-b314-4031-a6a7-fe44ec89e648)](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47plva8ulkiq00p9zm27iyca6fpb6qo85lakd27fh6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 I am interested in trying new things and gaining new knowledge. I want to get into Front end or Back end programming. I also have a deep passion for Games Programming.
