@@ -1,4 +1,4 @@
-## Hey there, I am Arnold :)
+## Hey there, I'm Arnold :)
 
 Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. 
 
@@ -7,11 +7,13 @@ I am a Graduate with a Bachelor of Information Sciences. Majoring in Software En
 I did my studies at Massey University from 2020-2022 & had my ceremony in May 2023.
 
 ## About Me 
-🌱 I'm currenlty in the process of creating a Unity game based of Space Invaders with colleague
+- 🌱 I'm currenlty in the process of creating a Unity game based of Space Invaders with colleague
 
-⚡ My hobbies include, coding, drives, motorbikeriding, hiking, travelling, playing chess, making games & PC building.
+- ⚡ My hobbies include, coding, drives, motorbikeriding, hiking, travelling, playing chess, making games & PC building.
 
-🔭 In the time that I do get free I enjoy learning new skillsets and programming languages
+- 🔭 In the time that I do get free I enjoy learning new skillsets and programming languages
+
+- 🚀 I'm always looking for new challenges and opportunities.
 
 I am interested in trying new things and gaining new knowledge. I want to get into Front end or Back end programming. I also have a deep passion for Games Programming.
 
@@ -25,7 +27,6 @@ I also use plastic SCM for Unity Commits as well.
 ![Arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrArnoldInTech&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrArnoldInTech&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## Programming Languages 
 <p align="left">
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -35,7 +36,6 @@ I also use plastic SCM for Unity Commits as well.
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 More to still add, trying to find suitable icons
 </p>
-
 
 <!--
 **/Arnold-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
