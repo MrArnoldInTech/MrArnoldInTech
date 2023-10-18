@@ -37,6 +37,9 @@ I also use plastic SCM for Unity Commits as well.
 More to still add, trying to find suitable icons
 </p>
 
+## Get in Touch
+- 📫 You can reach me via email at [ArnieFruish@yahoo.co.nz](mailto:arniefruishl@yahoo.co.nz).
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/arnold-fruish).
 <!--
 **/Arnold-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
