@@ -40,6 +40,7 @@ More to still add, trying to find suitable icons
 ## Get in Touch
 - 📫 You can reach me via email at [ArnieFruish@yahoo.co.nz](mailto:arniefruishl@yahoo.co.nz).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/arnold-fruish).
+- 🌐 Visit my webiste https://arnoldfruish.com
 <!--
 **/Arnold-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
