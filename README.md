@@ -19,6 +19,9 @@ I am interested in trying new things and gaining new knowledge. I want to get in
 
 Just so you know, I am in the process of uploading past projects and making them look presentable for Github. As well I have a few projects in development which are yet to come. Please stay tuned for more.
 
+In these last few months, I have been setting up my GitHub profile, which will explain why there are not many active commits. Also, many of my projects have been made private and now I am in the process of making them public and updating them to 
+suit GitHub for display to all. 
+
 Thank you for visiting my Profile page. :)
 
 I also use plastic SCM for Unity Commits as well. 
