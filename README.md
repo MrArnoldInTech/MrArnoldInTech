@@ -2,24 +2,24 @@
 
 Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. 
 
-I am a Graduate with a Bachelor of Information Sciences. Majoring in Software Engineering and also a Minor in Games Programming. 
+I am a Graduate with a Bachelor of Information Sciences. I am Majoring in Software Engineering and also a Minor in Games Programming. 
 
-I did my studies at Massey University from 2020-2022 & had my ceremony in May 2023.
+I studied at Massey University from 2020-2022 & had my ceremony in May 2023.
 
 ## About Me 
-- 🌱 I'm currenlty in the process of creating a Unity game based of Space Invaders with colleague
+- 🌱 I'm currently in the process of creating a Unity game based on Space Invaders with a colleague
 
-- ⚡ My hobbies include, coding, drives, motorbikeriding, hiking, travelling, playing chess, making games & PC building.
+- ⚡ My hobbies include coding, driving, motorbike riding, hiking, travelling, playing chess, making games & PC building.
 
-- 🔭 In the time that I do get free I enjoy learning new skillsets and programming languages
+- 🔭 In the time that I do get free I enjoy learning new skills and programming languages
 
 - 🚀 I'm always looking for new challenges and opportunities.
 
-I am interested in trying new things and gaining new knowledge. I want to get into Front end or Back end programming. I also have a deep passion for Games Programming.
+I am interested in trying new things and gaining new knowledge. I want to get into front-end or back-end programming. I also have a deep passion for game programming.
 
-FYI: I am in the process of uploading past projects and making them look presentable for Github. As well I have a few projects in Developemt which is yet to come. Please stay tuned for more.
+Just so you know, I am in the process of uploading past projects and making them look presentable for Github. As well I have a few projects in development which are yet to come. Please stay tuned for more.
 
-Thank you for visting my Profile page. :)
+Thank you for visiting my Profile page. :)
 
 I also use plastic SCM for Unity Commits as well. 
 
