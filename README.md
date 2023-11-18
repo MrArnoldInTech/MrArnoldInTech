@@ -2,7 +2,7 @@
 
 Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. 
 
-I am a Graduate with a Bachelor of Information Sciences. I am Majoring in Software Engineering and also a Minor in Games Programming. 
+I am a Graduate with a Bachelor of Information Sciences. I have a Major in Software Engineering and a Minor in Games Programming. 
 
 I studied at Massey University from 2020-2022 & had my ceremony in May 2023.
 
