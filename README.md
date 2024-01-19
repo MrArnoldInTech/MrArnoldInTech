@@ -27,7 +27,9 @@ Thank you for visiting my Profile page. :)
 I also use plastic SCM for Unity Commits as well. 
 
 ## Stats & Info
-![Arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrArnoldInTech&show_icons=true&theme=radical) 
+<!--
+![Arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrArnoldInTech&show_icons=true&theme=radical)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrArnoldInTech&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages 
