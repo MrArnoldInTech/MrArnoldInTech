@@ -1,4 +1,4 @@
-## Hey there, I'm Arnold :)
+## Hey There, I'm Arnold :)
 
 Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. 
 
@@ -84,7 +84,7 @@ I also use plastic SCM for Unity Commits as well.
 
 - More on the way......
 
-## Get in Touch
+## Get In Touch
 - 📫 You can reach me via email at [ArnieFruish@yahoo.co.nz](mailto:arniefruishl@yahoo.co.nz).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/arnold-fruish).
 - 🌐 Visit my website https://arnoldfruish.com
