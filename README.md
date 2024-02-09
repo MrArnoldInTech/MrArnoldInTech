@@ -24,7 +24,13 @@ suit GitHub for display to all.
 
 Thank you for visiting my Profile page. :)
 
-I also use plastic SCM for Unity Commits as well. 
+I also use plastic SCM for Unity Commits as well.
+
+## Current Projects In The Works (Updated Feb 2024)
+- Developing First-person shooter in Unity, currently self-learning Unreal Engine on the side and converting my Unity Project to that.
+- 2D Space Invaders Game conversion from Java to Unity Engine, might also make this into Unreal Engine.
+- Ongoing Website changes from time to time.
+- React Development Projects 
 
 ## Stats & Info
 <!--
@@ -36,11 +42,47 @@ I also use plastic SCM for Unity Commits as well.
 <p align="left">
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-line.svg" />
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img height = 50  src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/prolog.svg" />
+
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" />
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/android/android-original.svg" />
+
+<img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-More to still add, trying to find suitable icons
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" />
+
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" />
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" />
+
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" />
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" />
+
 </p>
+
+- More to still add, trying to find suitable icons
+
+## Applications
+<p align="left">
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg" />
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/atom/atom-original.svg" />
+
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original-wordmark.svg" />
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-original.svg" />
+
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" />
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original-wordmark.svg" />
+
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pycharm/pycharm-original.svg" />
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/heroku/heroku-plain-wordmark.svg" />
+
+<img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-original.svg" />
+
+</p>
+
+- More on the way......
 
 ## Get in Touch
 - 📫 You can reach me via email at [ArnieFruish@yahoo.co.nz](mailto:arniefruishl@yahoo.co.nz).
