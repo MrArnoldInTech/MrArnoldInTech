@@ -1,5 +1,7 @@
 ## Hey There, I'm Arnold :)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrarnoldintech&label=Profile%20views&color=0e75b6&style=flat" alt="mrarnoldintech" /> </p>
+
 Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. 
 
 I am a Graduate with a Bachelor of Information Sciences. I have a Major in Software Engineering and a Minor in Games Programming. 
