@@ -4,7 +4,7 @@
 
 Hi there 👋, My Name is Arnold and welcome to my GitHub profile page. 
 
-
+I am a Software Engineer who has a passion for Full stack design and who also shares a passion for game development.
 
 ## About Me 
 - 🌱 I'm currently in the process of creating a Unity game based on Space Invaders with a colleague
