@@ -4,7 +4,7 @@
 
 Hi there 👋, My name is Arnold and welcome to my GitHub profile page. 
 
-I am a Software Engineer who has a passion for Full stack design and who also shares a passion for game development.
+I am a Software Engineer who has a passion for full-stack design and who also shares a passion for game development.
 
 ## About Me 
 - 🌱 I'm currently in the process of creating a Unity game based on Space Invaders with a colleague
@@ -31,7 +31,7 @@ I also use Plastic SCM for Unity Commits. (This has changed now and is built in 
 
 ## Current Projects In The Works (Updated Feb 2024)
 - Developing a First-person shooter in Unity, currently self-learning Unreal Engine on the side and converting my Unity Project to that.
-- 2D Space Invaders Game conversion from Java to Unity Engine, might also make this into Unreal Engine.
+- 2D Space Invaders Game conversion from Java to Unity Engine; might also make this into Unreal Engine.
 - Ongoing Website changes from time to time.
 - React Development Projects 
 
@@ -82,21 +82,6 @@ I also use Plastic SCM for Unity Commits. (This has changed now and is built in 
 <img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/heroku/heroku-plain-wordmark.svg" />
 
 <img height = 50 src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-original.svg" />
-
 </p>
 
 - More on the way......
-
-**/Arnold-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
