@@ -24,7 +24,10 @@ Suit GitHub for display to all.
 
 Thank you for visiting my Profile page. :)
 
-I also use plastic SCM for Unity Commits.
+I also use Plastic SCM for Unity Commits. (This has changed now and is built in with the unity engine).
+
+## 2026 Onwards
+- Looking to get back into more upcoming projects again; more is on the way. I really enjoy working with Unity and Unreal Engine; doing my game development minor got me very interested in this. 
 
 ## Current Projects In The Works (Updated Feb 2024)
 - Developing a First-person shooter in Unity, currently self-learning Unreal Engine on the side and converting my Unity Project to that.
@@ -84,11 +87,6 @@ I also use plastic SCM for Unity Commits.
 
 - More on the way......
 
-## Get In Touch
-- 📫 You can reach me via email at [ArnieFruish@yahoo.co.nz](mailto:arniefruishl@yahoo.co.nz)
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/arnold-f)
-- 🌐 Visit my website https://arnointech.com
-<!--
 **/Arnold-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
