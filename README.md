@@ -24,7 +24,7 @@ Suit GitHub for display to all.
 
 Thank you for visiting my Profile page. :)
 
-I also use Plastic SCM for Unity Commits. (This has changed now and is built in with the unity engine).
+I also use Plastic SCM for Unity Commits. (This has changed now and is built-in with the Unity engine).
 
 ## 2026 Onwards
 - Looking to get back into more upcoming projects again; more is on the way. I really enjoy working with Unity and Unreal Engine; doing my game development minor got me very interested in this. 
@@ -40,6 +40,9 @@ I also use Plastic SCM for Unity Commits. (This has changed now and is built in 
 ![Arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrArnoldInTech&show_icons=true&theme=radical)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrArnoldInTech&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrArnoldInTech&show_icons=true&theme=radical)
+
 
 ## Programming Languages 
 <p align="left">
@@ -65,7 +68,7 @@ I also use Plastic SCM for Unity Commits. (This has changed now and is built in 
 
 </p>
 
-- More to still add, trying to find suitable icons
+- More to still add; trying to find suitable icons
 
 ## Applications
 <p align="left">
